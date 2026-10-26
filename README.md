@@ -7,7 +7,7 @@
 
 ## 📌 개요 ( Overview )
 
-> **진행 기간:** 2026.10.15 ~ 2026.10
+> **진행 기간:** 2026.10.15 ~ 2026.12 (예정)
 > **목표:**
   * 500만 건 이상 대용량 더미 데이터 기반 쿼리 성능 최적화 (응답 시간 90% 이상 단축)
   * AWR / ASH 리포트 분석을 통한 DB 병목 구간 원인 규명
@@ -19,7 +19,7 @@
 ## 💻 실습 및 분석 환경 ( Environment )
 
 * **OS:** MacOS (Apple Silicon M Series)
-* **Virtualization / Container:** Docker Desktop & Colima (ARM 에뮬레이션 환경 구축)
+* **Virtualization / Container:** Docker Desktop
 * **DBMS:** Oracle Database 19c (Enterprise / Express Edition)
 * **Client Tool:** Oracle SQL Developer, Beaver, VS Code
 * **Language / Shell:** Oracle SQL, PL/SQL, Bash Shell
@@ -31,7 +31,7 @@
 ```text
 .
 ├── README.md                     # 프로젝트 개요 및 요약 문서
-├── SETUP.md                      # Docker/Colima 오라클 설치 상세 가이드
+├── SETUP.md                      # Docker Desktop 오라클 설치 상세 가이드
 ├── TROUBLESHOOTING.md            # 에러 해결 일지
 ├── 01_data_pipeline/               [파이프라인 설계]
 │   ├── extract_source.py         # 공공 데이터 API 또는 외부 파일에서 데이터 수집
