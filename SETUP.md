@@ -20,7 +20,7 @@
 ### ① Colima 리소스 설정 및 가상화 구동 
 > Apple Silicon M Series 환경에서 x86 기반 오라클 이미지를 안정적으로 구동하기 위해 충분한 CPU와 메모리 할당
 
-'''bash
+```bash
 # Colima 설치 (Homebrew 기준)
 brew install colima docker
 
