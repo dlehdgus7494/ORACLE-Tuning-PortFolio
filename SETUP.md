@@ -24,6 +24,9 @@
 # Colima 설치 (Homebrew 기준)
 brew install colima docker
 
+# qemu 설치 (하드웨어 에뮬레이터 프로그램)
+brew install emu
+
 # x86_64 에뮬레이션 모드로 Colima 실행 (최소 RAM 6GB 이상 권장)
-Colima start --arch x86_64 --cpu 4 --memory 6 --disk 50
+Colima start --arch x86_64 --cpu 2 --memory 4 --disk 40
 
