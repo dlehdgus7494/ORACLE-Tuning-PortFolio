@@ -18,13 +18,3 @@
 # Oracle Free 23c/21c 설치
 docker run -d --name oracle19c -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=YourPassword123! gvenzl/oracle-free
 ```
----
-
-```
-
----
-
-## 2. Docker 기반 오라클 19c 컨테이너 구축
-```bash
-# Oracle Free 23c/21c 설치
-docker run -d --name oracle19c -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=YourPassword123! gvenzl/oracle-free
