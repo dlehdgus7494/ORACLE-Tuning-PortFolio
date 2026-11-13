@@ -10,7 +10,7 @@
 - **OS:** MacOS Taeho
 - **Virtualization:** Docker Desktop
 - **DBMS:** Oracle Free 23c/21c
-- **Client Tools:** Beaver / Oracle SQL Developer, VS Code
+- **Client Tools:** Oracle SQL Developer, VS Code
 - **Language/Runtime:** Python 3.10+, Bash Shell
 
 ```bash
