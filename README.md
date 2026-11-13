@@ -22,7 +22,7 @@
 * **Virtualization / Container:** Docker Desktop
 * **DBMS:** Oracle Free 23c/21c
             (Note: Oracle 19c Enterprise와 동일한 RDBMS Core 커널 및 AWR/ASH/CBO 옵티마이저 튜닝 메커니즘 제공)
-* **Client Tool:** Oracle SQL Developer, Beaver, VS Code
+* **Client Tool:** Oracle SQL Developer, VS Code
 * **Language / Shell:** Oracle SQL, PL/SQL, Bash Shell
 
 ---
