@@ -28,5 +28,6 @@
 # Oracle Free 23c/21c 설치
 docker run -d --name oracle19c -p 1521:1521 -p 5500:5500 -e ORACLE_PWD=YourPassword123! gvenzl/oracle-free
 ```
-<img width="892" height="612" alt="스크린샷 2026-11-13 오후 2 44 47" src="https://github.com/user-attachments/assets/0847ce54-ed1d-44d6-af97-a3b26fb2d13c" />
+<img width="892" height="612" alt="스크린샷 2026-11-13 오후 2 51 07" src="https://github.com/user-attachments/assets/72aba625-68a3-42e2-8b50-2be1b0c685ef" />
+
 
